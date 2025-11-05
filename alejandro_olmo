@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Alejandro Olmo – Game Designer & Blockchain Builder</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0e0e1a;
+      color: #f4f4f8;
+      line-height: 1.6;
+    }
+    header {
+      background: url("https://drive.google.com/uc?export=view&id=1YZ3JzI9-PSfbM2BPojHz4281BGTRwOrO") center/cover no-repeat;
+      height: 60vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 20px;
+    }
+    header h1 {
+      font-size: 3rem;
+      background: rgba(0,0,0,0.6);
+      padding: 15px 25px;
+      border-radius: 10px;
+    }
+    .section {
+      max-width: 900px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+    .title {
+      font-size: 2rem;
+      margin-bottom: 15px;
+    }
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 15px;
+      margin-top: 20px;
+    }
+    .gallery img {
+      width: 100%;
+      border-radius: 10px;
+      object-fit: cover;
+    }
+    footer {
+      text-align: center;
+      padding: 25px;
+      opacity: 0.7;
+    }
+    a {
+      color: #74c0fc;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Alejandro Olmo<br/>Game & Narrative Designer | Blockchain Worlds Builder</h1>
+  </header>
+
+  <section class="section">
+    <h2 class="title">About Me</h2>
+    <p>I am a fantasy worldbuilder, game designer and blockchain gaming creator, focused on crafting immersive universes and player‑driven systems. I build worlds where narrative, gameplay and digital ownership merge into unforgettable adventure experiences.</p>
+    <p>Currently building <strong>Niide: And the Three Wise Man</strong> & <strong>One Shot One Million</strong>, exploring economy‑driven gameplay, strategic progression and decentralization.</p>
+  </section>
+
+  <section class="section">
+    <h2 class="title">World & Character Art</h2>
+    <div class="gallery">
+      <img src="https://drive.google.com/uc?export=view&id=1pwk3WMcC8QhoUqRnIEsy0wLHklG8GW2s" alt="Characters"/>
+      <img src="https://drive.google.com/uc?export=view&id=1RJG8uRqecPrO0ZsOQOvtOMf59PvNisSs" alt="World Map"/>
+      <img src="https://drive.google.com/uc?export=view&id=1e96ngFQ6YOlr7ycg6mpWhvVeZsCR_Z28" alt="Outfit Card"/>
+      <img src="https://drive.google.com/uc?export=view&id=18u7l8BuJvryeddY-_5pb_5XtHEzGg4DT" alt="Artifact Card"/>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2 class="title">Game UI & Level Design</h2>
+    <div class="gallery">
+      <img src="https://drive.google.com/uc?export=view&id=1ZCLY6eovtWZi0RoKD6l2cGZ3fjRGKjTy" alt="UI Tutorial"/>
+      <img src="https://drive.google.com/uc?export=view&id=1HAyXzMLEcMih0b82hizjEZ4R0tMNZy6C" alt="Level Design"/>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2 class="title">Connect</h2>
+    <p>🔗 <a href="https://www.linkedin.com/in/alejandro-olmo-cuevas-0168aa219/" target="_blank">LinkedIn</a></p>
+    <p>📧 alejandro.olmo.studio@example.com</p>
+  </section>
+
+  <footer>
+    © 2025 Alejandro Olmo — Creative Game & Blockchain Designer
+  </footer>
+</body>
+</html>
+
